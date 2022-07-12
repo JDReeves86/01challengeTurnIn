@@ -1,13 +1,14 @@
-==Challenge 01==
-==CSS Refactor==
-
-** Objectives **
+# Challenge 01 #
+---
+## CSS Refactor ##
+---
+### Objectives ###
 1. Ensure HTML uses semantic elements.
 2. Maintain orderly and logical flow of HTML/CSS.
 3. Ensure HTML meets accesibility standards with alt attributes for images & icons.
 4. Ensure clear/concise title for page.
 
-** About **
+### About ###
 1. Ensure HTML uses semantic elements.
   > When initially received, HTML code used primarily <div> elements to break up sections. While allowing for a clean looking structure, it fails to meet semantic HTML criteria. <div> elements changed out for semantic elements that better allow for clearer flow of content. E.g <section> & <aside> elements.
 
@@ -20,7 +21,7 @@
 4. Ensure clear/concise title for page.
   >Page initially had vague placeholder title. While no specific direction was given from source code for taglines or slogans. I took the liberty to create a simple slogan "Enhance your digital presence" based on the apparent function of the company.
 
-** Screenshots **
+### Screenshots ###
 
 ![my screenshot](./assets/images/Screenshot%202022-07-11%20163804.png)
 ![my screenshot](./assets/images/Screenshot%202022-07-11%20163830.png)
